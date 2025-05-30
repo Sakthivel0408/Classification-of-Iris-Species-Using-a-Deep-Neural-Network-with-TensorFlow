@@ -2,7 +2,7 @@
 
 This project demonstrates how to classify Iris flower species using a deep neural network (DNN) built with TensorFlow. It serves as an introductory machine learning project for beginners interested in deep learning and data science.
 
-## 🌱 Dataset
+## Dataset
 The Iris dataset is a classic dataset in machine learning, containing 150 samples from three species:
 - Setosa
 - Versicolor
